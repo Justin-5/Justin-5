@@ -1,5 +1,5 @@
 # Hey there, I'm Justin! 👋
-## <br>Welcome to my corner of the internet! I'm a fourth-year Computer Science student on a mission to build amazing things for the web.<br><br>- 🎓 I'm currently pursuing a Bachelor of Engineering in CSE.<br>- 💻 I love working on frontend projects and bringing ideas to life in the browser.<br>- 💡 My core strengths are in C, C++, and Data Structures & Algorithms (DSA).<br>- 🌱 I'm always learning and currently exploring advanced frontend frameworks.
+ <br>Welcome to my corner of the internet! I'm a fourth-year Computer Science student on a mission to build amazing things for the web.<br><br>- 🎓 I'm currently pursuing a Bachelor of Engineering in CSE.<br>- 💻 I love working on frontend projects and bringing ideas to life in the browser.<br>- 💡 My core strengths are in C, C++, and Data Structures & Algorithms (DSA).<br>- 🌱 I'm always learning and currently exploring advanced frontend frameworks.
 
 
 # 💻 Tech Stack
